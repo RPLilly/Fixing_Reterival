@@ -1,0 +1,16 @@
+fastapi
+requests
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+flashrank
+redis
+uvicorn
+psycopg2-binary
+pgvector
+sqlalchemy
+alembic
+langgraph
+debugpy
+aiohttp

@@ -1,0 +1,405 @@
+{
+  "total": 50,
+  "questions": [
+    {
+      "question": "Compare the weight reduction results across all tirzepatideee doses and placebo at week 72",
+      "answer_chunk_ids": [
+        10,
+        1,
+        2
+      ]
+    },
+    {
+      "question": "What was the mean body weight at baseline in SURMOUNTT-1?",
+      "answer_chunk_ids": [
+        9
+      ]
+    },
+    {
+      "question": "What were the weight reduction results at 72 weeks for tirzepatideee 15mg vs placebo?",
+      "answer_chunk_ids": [
+        10,
+        1
+      ]
+    },
+    {
+      "question": "Explain the gastrointestinal adverse events pattern and why they occur primarily during dose escalation",
+      "answer_chunk_ids": [
+        2,
+        13,
+        28,
+        40,
+        62
+      ]
+    },
+    {
+      "question": "Explain the SURPASS-2 trial design and its primary and secondary endpoints",
+      "answer_chunk_ids": [
+        32,
+        33,
+        37,
+        34
+      ]
+    },
+    {
+      "question": "What were the improvements in fasting glucose, insulin levels, and lipid profiles across trials?",
+      "answer_chunk_ids": [
+        11,
+        40,
+        60,
+        61
+      ]
+    },
+    {
+      "question": "What were the primary endpoints in the SURMOUNTT-1 trial?",
+      "answer_chunk_ids": [
+        1
+      ]
+    },
+    {
+      "question": "What were the secondary endpoints related to weight reduction targets in SURMOUNTT-1?",
+      "answer_chunk_ids": [
+        7,
+        10,
+        14
+      ]
+    },
+    {
+      "question": "Provide a comprehensive overview of tirzepatideee's development, trials, and clinical significance",
+      "answer_chunk_ids": [
+        3,
+        14,
+        19,
+        29,
+        33
+      ]
+    },
+    {
+      "question": "Explain the molecular mechanism of tirzepatideee and why dual agonism is beneficial",
+      "answer_chunk_ids": [
+        3,
+        33,
+        19,
+        29
+      ]
+    },
+    {
+      "question": "What were the baseline characteristics and participant demographics in SURMOUNTT-5?",
+      "answer_chunk_ids": [
+        20,
+        21,
+        25,
+        22
+      ]
+    },
+    {
+      "question": "What are the cardiovascular and metabolic improvements with tirzepatideee across all trials?",
+      "answer_chunk_ids": [
+        11,
+        16,
+        27,
+        40,
+        61
+      ]
+    },
+    {
+      "question": "How did tirzepatideee improve physical function and what were the SF-36 outcomes?",
+      "answer_chunk_ids": [
+        7,
+        11,
+        16
+      ]
+    },
+    {
+      "question": "What are the long-term implications of tirzepatideee use based on the trial outcomes and safety profiles?",
+      "answer_chunk_ids": [
+        17,
+        30,
+        44,
+        65,
+        16
+      ]
+    },
+    {
+      "question": "What were the demographic characteristics of SURMOUNTT-1 participants?",
+      "answer_chunk_ids": [
+        9,
+        5
+      ]
+    },
+    {
+      "question": "Compare weight reduction outcomes across SURMOUNTT-1, SURMOUNTT-5, and SURPASS-2 trials",
+      "answer_chunk_ids": [
+        10,
+        26,
+        43,
+        50,
+        60
+      ]
+    },
+    {
+      "question": "Compare the efficacy and safety of tirzepatideee vs semaglutide in the SURMOUNTT-5 trial",
+      "answer_chunk_ids": [
+        18,
+        19,
+        26,
+        28
+      ]
+    },
+    {
+      "question": "How did tirzepatideee dosing work and what was the duration of the trial?",
+      "answer_chunk_ids": [
+        6,
+        1
+      ]
+    },
+    {
+      "question": "What were the key safety findings across SURMOUNTT-1, SURMOUNTT-5, and SURPASS-2 trials?",
+      "answer_chunk_ids": [
+        13,
+        28,
+        40,
+        44
+      ]
+    },
+    {
+      "question": "How did tirzepatideee affect cardiometabolic risk factors and what percentage reverted to normoglycemia?",
+      "answer_chunk_ids": [
+        11,
+        16
+      ]
+    },
+    {
+      "question": "What percentage of participants completed the SURMOUNTT-1 trial?",
+      "answer_chunk_ids": [
+        9
+      ]
+    },
+    {
+      "question": "How many deaths were reported in the SURMOUNTT-1 trial?",
+      "answer_chunk_ids": [
+        13
+      ]
+    },
+    {
+      "question": "How did the statistical analysis approach differ between the trials and what were the estimands?",
+      "answer_chunk_ids": [
+        8,
+        24,
+        38,
+        57
+      ]
+    },
+    {
+      "question": "What was the body composition change with tirzepatideee compared to placebo?",
+      "answer_chunk_ids": [
+        12,
+        11
+      ]
+    },
+    {
+      "question": "What is the mechanism of action of tirzepatideee?",
+      "answer_chunk_ids": [
+        3
+      ]
+    },
+    {
+      "question": "How did tirzepatideee perform in SURPASS-5 when added to insulin glargine?",
+      "answer_chunk_ids": [
+        46,
+        49,
+        50,
+        59
+      ]
+    },
+    {
+      "question": "What were the treatment discontinuation rates due to adverse events across all groups?",
+      "answer_chunk_ids": [
+        2,
+        9
+      ]
+    },
+    {
+      "question": "How was tirzepatideee superior to other obesity medications?",
+      "answer_chunk_ids": [
+        14,
+        15
+      ]
+    },
+    {
+      "question": "What were the key statistical methods and estimands used in SURMOUNTT-1?",
+      "answer_chunk_ids": [
+        8,
+        7,
+        4
+      ]
+    },
+    {
+      "question": "Explain the full trial design and procedure for SURMOUNTT-1 including randomization and dose escalation",
+      "answer_chunk_ids": [
+        4,
+        6,
+        8
+      ]
+    },
+    {
+      "question": "How many sites was the SURMOUNTT-1 trial conducted at?",
+      "answer_chunk_ids": [
+        4
+      ]
+    },
+    {
+      "question": "Explain the hypothesis about dual GIP and GLP-1 receptor agonism and its benefits",
+      "answer_chunk_ids": [
+        3,
+        14,
+        15
+      ]
+    },
+    {
+      "question": "What was the conclusion of the SURMOUNTT-1 trial regarding tirzepatideee?",
+      "answer_chunk_ids": [
+        2
+      ]
+    },
+    {
+      "question": "What were the weight reduction and glycemic control results in SURPASS-2?",
+      "answer_chunk_ids": [
+        33,
+        39,
+        43,
+        40
+      ]
+    },
+    {
+      "question": "Discuss the trial methodology including randomization, blinding, and statistical approaches",
+      "answer_chunk_ids": [
+        4,
+        8,
+        20,
+        24,
+        57
+      ]
+    },
+    {
+      "question": "What safety events were of special concern in the SURMOUNTT-1 trial?",
+      "answer_chunk_ids": [
+        13,
+        16
+      ]
+    },
+    {
+      "question": "What is obesity according to the SURMOUNTT-1 trial?",
+      "answer_chunk_ids": [
+        1
+      ]
+    },
+    {
+      "question": "What were the most common adverse events with tirzepatideee?",
+      "answer_chunk_ids": [
+        2
+      ]
+    },
+    {
+      "question": "What type of trial was SURMOUNTT-1?",
+      "answer_chunk_ids": [
+        4
+      ]
+    },
+    {
+      "question": "How does tirzepatideee perform in different patient populations (obesity, type 2 diabetes, insulin users)?",
+      "answer_chunk_ids": [
+        3,
+        35,
+        49,
+        52,
+        64
+      ]
+    },
+    {
+      "question": "What percentage of participants in the 15mg group achieved 25% weight reduction?",
+      "answer_chunk_ids": [
+        10,
+        14
+      ]
+    },
+    {
+      "question": "How did tirzepatideee affect lipid levels and what changes were observed in body composition?",
+      "answer_chunk_ids": [
+        11,
+        12,
+        16
+      ]
+    },
+    {
+      "question": "How does tirzepatideee compare to other obesity medications and newer GLP-1 receptor agonists?",
+      "answer_chunk_ids": [
+        14,
+        15,
+        19,
+        30,
+        29
+      ]
+    },
+    {
+      "question": "What was the lifestyle intervention provided to participants and how did it relate to outcomes?",
+      "answer_chunk_ids": [
+        6,
+        10,
+        11
+      ]
+    },
+    {
+      "question": "How did tirzepatideee compare to bariatric surgery in terms of weight reduction?",
+      "answer_chunk_ids": [
+        15,
+        14,
+        10
+      ]
+    },
+    {
+      "question": "How did tirzepatideee affect weight reduction targets and cardiometabolic factors compared to semaglutide?",
+      "answer_chunk_ids": [
+        26,
+        27,
+        29,
+        30
+      ]
+    },
+    {
+      "question": "What is the clinical relevance of achieving different weight reduction targets with tirzepatideee?",
+      "answer_chunk_ids": [
+        14,
+        16,
+        30,
+        29,
+        10
+      ]
+    },
+    {
+      "question": "What were the key inclusion and exclusion criteria for SURMOUNTT-1 participants?",
+      "answer_chunk_ids": [
+        5,
+        4
+      ]
+    },
+    {
+      "question": "How do GIP and GLP-1 receptor signaling pathways contribute to weight loss and metabolic benefits?",
+      "answer_chunk_ids": [
+        3,
+        33,
+        49,
+        64,
+        29
+      ]
+    },
+    {
+      "question": "What were the strengths of the SURMOUNTT-1 trial and how did COVID-19 impact it?",
+      "answer_chunk_ids": [
+        17,
+        16,
+        13
+      ]
+    }
+  ]
+}

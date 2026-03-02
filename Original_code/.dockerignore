@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+embeddings.db
+# chunks.json is required at runtime (either copied into image or mounted)
+/Old_scripts/*
+/Old_scripts/*
+/Questions/*
+/venv/*

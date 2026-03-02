@@ -1,0 +1,965 @@
+[
+  {
+    "question": "Compare the weight reduction results across all tirzepatide doses and placebo at week 72",
+    "method": "vector",
+    "answer_chunk_ids": [
+      10,
+      1,
+      2
+    ],
+    "retrieved_chunk_ids": [
+      10,
+      26,
+      12,
+      15,
+      27
+    ],
+    "hit_count": 1,
+    "recall": 0.3333333333333333,
+    "avg_rr": 0.3333333333333333,
+    "normalized_avg_rr": 0.18181818181818182,
+    "top_k": 5
+  },
+  {
+    "question": "Compare the weight reduction results across all tirzepatide doses and placebo at week 72",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      10,
+      1,
+      2
+    ],
+    "retrieved_chunk_ids": [
+      30,
+      29,
+      15,
+      10,
+      19
+    ],
+    "hit_count": 1,
+    "recall": 0.3333333333333333,
+    "avg_rr": 0.08333333333333333,
+    "normalized_avg_rr": 0.045454545454545456,
+    "top_k": 5
+  },
+  {
+    "question": "Compare the weight reduction results across all tirzepatide doses and placebo at week 72",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      10,
+      1,
+      2
+    ],
+    "retrieved_chunk_ids": [
+      10,
+      15,
+      26,
+      29,
+      61
+    ],
+    "hit_count": 1,
+    "recall": 0.3333333333333333,
+    "avg_rr": 0.3333333333333333,
+    "normalized_avg_rr": 0.18181818181818182,
+    "top_k": 5
+  },
+  {
+    "question": "What was the mean body weight at baseline in SURMOUNT-1?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      9
+    ],
+    "retrieved_chunk_ids": [
+      7,
+      2,
+      5,
+      21,
+      10
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "top_k": 5
+  },
+  {
+    "question": "What was the mean body weight at baseline in SURMOUNT-1?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      9
+    ],
+    "retrieved_chunk_ids": [
+      26,
+      30,
+      61,
+      55,
+      15
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "top_k": 5
+  },
+  {
+    "question": "What was the mean body weight at baseline in SURMOUNT-1?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      9
+    ],
+    "retrieved_chunk_ids": [
+      7,
+      26,
+      10,
+      24,
+      9
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.2,
+    "normalized_avg_rr": 0.2,
+    "top_k": 5
+  },
+  {
+    "question": "What were the weight reduction results at 72 weeks for tirzepatide 15mg vs placebo?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      10,
+      1
+    ],
+    "retrieved_chunk_ids": [
+      10,
+      26,
+      12,
+      15,
+      2
+    ],
+    "hit_count": 1,
+    "recall": 0.5,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.3333333333333333,
+    "top_k": 5
+  },
+  {
+    "question": "What were the weight reduction results at 72 weeks for tirzepatide 15mg vs placebo?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      10,
+      1
+    ],
+    "retrieved_chunk_ids": [
+      30,
+      29,
+      62,
+      15,
+      19
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "top_k": 5
+  },
+  {
+    "question": "What were the weight reduction results at 72 weeks for tirzepatide 15mg vs placebo?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      10,
+      1
+    ],
+    "retrieved_chunk_ids": [
+      10,
+      15,
+      26,
+      29,
+      19
+    ],
+    "hit_count": 1,
+    "recall": 0.5,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.3333333333333333,
+    "top_k": 5
+  },
+  {
+    "question": "Explain the gastrointestinal adverse events pattern and why they occur primarily during dose escalation",
+    "method": "vector",
+    "answer_chunk_ids": [
+      2,
+      13,
+      28,
+      40,
+      62
+    ],
+    "retrieved_chunk_ids": [
+      44,
+      65,
+      28,
+      62,
+      13
+    ],
+    "hit_count": 3,
+    "recall": 0.6,
+    "avg_rr": 0.15666666666666668,
+    "normalized_avg_rr": 0.20583941605839418,
+    "top_k": 5
+  },
+  {
+    "question": "Explain the gastrointestinal adverse events pattern and why they occur primarily during dose escalation",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      2,
+      13,
+      28,
+      40,
+      62
+    ],
+    "retrieved_chunk_ids": [
+      28,
+      62,
+      22,
+      13,
+      63
+    ],
+    "hit_count": 3,
+    "recall": 0.6,
+    "avg_rr": 0.35,
+    "normalized_avg_rr": 0.45985401459854014,
+    "top_k": 5
+  },
+  {
+    "question": "Explain the gastrointestinal adverse events pattern and why they occur primarily during dose escalation",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      2,
+      13,
+      28,
+      40,
+      62
+    ],
+    "retrieved_chunk_ids": [
+      28,
+      62,
+      44,
+      13,
+      40
+    ],
+    "hit_count": 4,
+    "recall": 0.8,
+    "avg_rr": 0.39,
+    "normalized_avg_rr": 0.6832116788321169,
+    "top_k": 5
+  },
+  {
+    "question": "Explain the SURPASS-2 trial design and its primary and secondary endpoints",
+    "method": "vector",
+    "answer_chunk_ids": [
+      32,
+      33,
+      37,
+      34
+    ],
+    "retrieved_chunk_ids": [
+      63,
+      55,
+      4,
+      20,
+      37
+    ],
+    "hit_count": 1,
+    "recall": 0.25,
+    "avg_rr": 0.05,
+    "normalized_avg_rr": 0.024,
+    "top_k": 5
+  },
+  {
+    "question": "Explain the SURPASS-2 trial design and its primary and secondary endpoints",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      32,
+      33,
+      37,
+      34
+    ],
+    "retrieved_chunk_ids": [
+      24,
+      58,
+      57,
+      29,
+      4
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "top_k": 5
+  },
+  {
+    "question": "Explain the SURPASS-2 trial design and its primary and secondary endpoints",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      32,
+      33,
+      37,
+      34
+    ],
+    "retrieved_chunk_ids": [
+      4,
+      20,
+      57,
+      55,
+      34
+    ],
+    "hit_count": 1,
+    "recall": 0.25,
+    "avg_rr": 0.05,
+    "normalized_avg_rr": 0.024,
+    "top_k": 5
+  },
+  {
+    "question": "What were the improvements in fasting glucose, insulin levels, and lipid profiles across trials?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      11,
+      40,
+      60,
+      61
+    ],
+    "retrieved_chunk_ids": [
+      61,
+      27,
+      11,
+      59,
+      16
+    ],
+    "hit_count": 2,
+    "recall": 0.5,
+    "avg_rr": 0.3333333333333333,
+    "normalized_avg_rr": 0.31999999999999995,
+    "top_k": 5
+  },
+  {
+    "question": "What were the improvements in fasting glucose, insulin levels, and lipid profiles across trials?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      11,
+      40,
+      60,
+      61
+    ],
+    "retrieved_chunk_ids": [
+      33,
+      49,
+      64,
+      37,
+      43
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "top_k": 5
+  },
+  {
+    "question": "What were the improvements in fasting glucose, insulin levels, and lipid profiles across trials?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      11,
+      40,
+      60,
+      61
+    ],
+    "retrieved_chunk_ids": [
+      27,
+      16,
+      37,
+      30,
+      64
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "top_k": 5
+  },
+  {
+    "question": "What were the primary endpoints in the SURMOUNT-1 trial?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      1
+    ],
+    "retrieved_chunk_ids": [
+      55,
+      37,
+      7,
+      23,
+      63
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "top_k": 5
+  },
+  {
+    "question": "What were the primary endpoints in the SURMOUNT-1 trial?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      1
+    ],
+    "retrieved_chunk_ids": [
+      24,
+      58,
+      31,
+      16,
+      29
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "top_k": 5
+  },
+  {
+    "question": "What were the primary endpoints in the SURMOUNT-1 trial?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      1
+    ],
+    "retrieved_chunk_ids": [
+      37,
+      57,
+      63,
+      34,
+      4
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "top_k": 5
+  },
+  {
+    "question": "What were the secondary endpoints related to weight reduction targets in SURMOUNT-1?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      7,
+      10,
+      14
+    ],
+    "retrieved_chunk_ids": [
+      7,
+      23,
+      37,
+      55,
+      61
+    ],
+    "hit_count": 1,
+    "recall": 0.3333333333333333,
+    "avg_rr": 0.3333333333333333,
+    "normalized_avg_rr": 0.18181818181818182,
+    "top_k": 5
+  },
+  {
+    "question": "What were the secondary endpoints related to weight reduction targets in SURMOUNT-1?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      7,
+      10,
+      14
+    ],
+    "retrieved_chunk_ids": [
+      30,
+      29,
+      15,
+      3,
+      26
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "top_k": 5
+  },
+  {
+    "question": "What were the secondary endpoints related to weight reduction targets in SURMOUNT-1?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      7,
+      10,
+      14
+    ],
+    "retrieved_chunk_ids": [
+      30,
+      37,
+      19,
+      29,
+      10
+    ],
+    "hit_count": 1,
+    "recall": 0.3333333333333333,
+    "avg_rr": 0.06666666666666667,
+    "normalized_avg_rr": 0.03636363636363636,
+    "top_k": 5
+  },
+  {
+    "question": "Provide a comprehensive overview of tirzepatide's development, trials, and clinical significance",
+    "method": "vector",
+    "answer_chunk_ids": [
+      3,
+      14,
+      19,
+      29,
+      33
+    ],
+    "retrieved_chunk_ids": [
+      32,
+      43,
+      49,
+      46,
+      64
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "top_k": 5
+  },
+  {
+    "question": "Provide a comprehensive overview of tirzepatide's development, trials, and clinical significance",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      3,
+      14,
+      19,
+      29,
+      33
+    ],
+    "retrieved_chunk_ids": [
+      64,
+      29,
+      41,
+      19,
+      30
+    ],
+    "hit_count": 2,
+    "recall": 0.4,
+    "avg_rr": 0.15,
+    "normalized_avg_rr": 0.13138686131386865,
+    "top_k": 5
+  },
+  {
+    "question": "Provide a comprehensive overview of tirzepatide's development, trials, and clinical significance",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      3,
+      14,
+      19,
+      29,
+      33
+    ],
+    "retrieved_chunk_ids": [
+      64,
+      43,
+      62,
+      32,
+      49
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "top_k": 5
+  },
+  {
+    "question": "Explain the molecular mechanism of tirzepatide and why dual agonism is beneficial",
+    "method": "vector",
+    "answer_chunk_ids": [
+      3,
+      33,
+      19,
+      29
+    ],
+    "retrieved_chunk_ids": [
+      33,
+      43,
+      64,
+      46,
+      49
+    ],
+    "hit_count": 1,
+    "recall": 0.25,
+    "avg_rr": 0.25,
+    "normalized_avg_rr": 0.12,
+    "top_k": 5
+  },
+  {
+    "question": "Explain the molecular mechanism of tirzepatide and why dual agonism is beneficial",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      3,
+      33,
+      19,
+      29
+    ],
+    "retrieved_chunk_ids": [
+      19,
+      62,
+      33,
+      41,
+      29
+    ],
+    "hit_count": 3,
+    "recall": 0.75,
+    "avg_rr": 0.3833333333333333,
+    "normalized_avg_rr": 0.5519999999999999,
+    "top_k": 5
+  },
+  {
+    "question": "Explain the molecular mechanism of tirzepatide and why dual agonism is beneficial",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      3,
+      33,
+      19,
+      29
+    ],
+    "retrieved_chunk_ids": [
+      33,
+      64,
+      43,
+      29,
+      49
+    ],
+    "hit_count": 2,
+    "recall": 0.5,
+    "avg_rr": 0.3125,
+    "normalized_avg_rr": 0.3,
+    "top_k": 5
+  },
+  {
+    "question": "What were the baseline characteristics and participant demographics in SURMOUNT-5?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      20,
+      21,
+      25,
+      22
+    ],
+    "retrieved_chunk_ids": [
+      63,
+      52,
+      51,
+      4,
+      34
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "top_k": 5
+  },
+  {
+    "question": "What were the baseline characteristics and participant demographics in SURMOUNT-5?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      20,
+      21,
+      25,
+      22
+    ],
+    "retrieved_chunk_ids": [
+      9,
+      25,
+      24,
+      11,
+      61
+    ],
+    "hit_count": 1,
+    "recall": 0.25,
+    "avg_rr": 0.125,
+    "normalized_avg_rr": 0.06,
+    "top_k": 5
+  },
+  {
+    "question": "What were the baseline characteristics and participant demographics in SURMOUNT-5?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      20,
+      21,
+      25,
+      22
+    ],
+    "retrieved_chunk_ids": [
+      9,
+      25,
+      59,
+      7,
+      63
+    ],
+    "hit_count": 1,
+    "recall": 0.25,
+    "avg_rr": 0.125,
+    "normalized_avg_rr": 0.06,
+    "top_k": 5
+  },
+  {
+    "question": "What are the cardiovascular and metabolic improvements with tirzepatide across all trials?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      11,
+      16,
+      27,
+      40,
+      61
+    ],
+    "retrieved_chunk_ids": [
+      27,
+      11,
+      61,
+      16,
+      43
+    ],
+    "hit_count": 4,
+    "recall": 0.8,
+    "avg_rr": 0.4166666666666667,
+    "normalized_avg_rr": 0.7299270072992702,
+    "top_k": 5
+  },
+  {
+    "question": "What are the cardiovascular and metabolic improvements with tirzepatide across all trials?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      11,
+      16,
+      27,
+      40,
+      61
+    ],
+    "retrieved_chunk_ids": [
+      30,
+      41,
+      16,
+      62,
+      29
+    ],
+    "hit_count": 1,
+    "recall": 0.2,
+    "avg_rr": 0.06666666666666667,
+    "normalized_avg_rr": 0.029197080291970802,
+    "top_k": 5
+  },
+  {
+    "question": "What are the cardiovascular and metabolic improvements with tirzepatide across all trials?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      11,
+      16,
+      27,
+      40,
+      61
+    ],
+    "retrieved_chunk_ids": [
+      16,
+      27,
+      43,
+      30,
+      61
+    ],
+    "hit_count": 3,
+    "recall": 0.6,
+    "avg_rr": 0.33999999999999997,
+    "normalized_avg_rr": 0.4467153284671533,
+    "top_k": 5
+  },
+  {
+    "question": "How did tirzepatide improve physical function and what were the SF-36 outcomes?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      7,
+      11,
+      16
+    ],
+    "retrieved_chunk_ids": [
+      11,
+      61,
+      26,
+      27,
+      59
+    ],
+    "hit_count": 1,
+    "recall": 0.3333333333333333,
+    "avg_rr": 0.3333333333333333,
+    "normalized_avg_rr": 0.18181818181818182,
+    "top_k": 5
+  },
+  {
+    "question": "How did tirzepatide improve physical function and what were the SF-36 outcomes?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      7,
+      11,
+      16
+    ],
+    "retrieved_chunk_ids": [
+      62,
+      30,
+      11,
+      41,
+      19
+    ],
+    "hit_count": 1,
+    "recall": 0.3333333333333333,
+    "avg_rr": 0.1111111111111111,
+    "normalized_avg_rr": 0.06060606060606061,
+    "top_k": 5
+  },
+  {
+    "question": "How did tirzepatide improve physical function and what were the SF-36 outcomes?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      7,
+      11,
+      16
+    ],
+    "retrieved_chunk_ids": [
+      11,
+      61,
+      27,
+      55,
+      30
+    ],
+    "hit_count": 1,
+    "recall": 0.3333333333333333,
+    "avg_rr": 0.3333333333333333,
+    "normalized_avg_rr": 0.18181818181818182,
+    "top_k": 5
+  },
+  {
+    "question": "What are the long-term implications of tirzepatide use based on the trial outcomes and safety profiles?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      17,
+      30,
+      44,
+      65,
+      16
+    ],
+    "retrieved_chunk_ids": [
+      16,
+      62,
+      43,
+      13,
+      64
+    ],
+    "hit_count": 1,
+    "recall": 0.2,
+    "avg_rr": 0.2,
+    "normalized_avg_rr": 0.08759124087591241,
+    "top_k": 5
+  },
+  {
+    "question": "What are the long-term implications of tirzepatide use based on the trial outcomes and safety profiles?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      17,
+      30,
+      44,
+      65,
+      16
+    ],
+    "retrieved_chunk_ids": [
+      24,
+      58,
+      16,
+      61,
+      29
+    ],
+    "hit_count": 1,
+    "recall": 0.2,
+    "avg_rr": 0.06666666666666667,
+    "normalized_avg_rr": 0.029197080291970802,
+    "top_k": 5
+  },
+  {
+    "question": "What are the long-term implications of tirzepatide use based on the trial outcomes and safety profiles?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      17,
+      30,
+      44,
+      65,
+      16
+    ],
+    "retrieved_chunk_ids": [
+      16,
+      62,
+      43,
+      55,
+      64
+    ],
+    "hit_count": 1,
+    "recall": 0.2,
+    "avg_rr": 0.2,
+    "normalized_avg_rr": 0.08759124087591241,
+    "top_k": 5
+  },
+  {
+    "question": "What were the demographic characteristics of SURMOUNT-1 participants?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      9,
+      5
+    ],
+    "retrieved_chunk_ids": [
+      52,
+      63,
+      35,
+      21,
+      25
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "top_k": 5
+  },
+  {
+    "question": "What were the demographic characteristics of SURMOUNT-1 participants?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      9,
+      5
+    ],
+    "retrieved_chunk_ids": [
+      9,
+      25,
+      22,
+      10,
+      13
+    ],
+    "hit_count": 1,
+    "recall": 0.5,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.3333333333333333,
+    "top_k": 5
+  },
+  {
+    "question": "What were the demographic characteristics of SURMOUNT-1 participants?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      9,
+      5
+    ],
+    "retrieved_chunk_ids": [
+      25,
+      9,
+      8,
+      52,
+      63
+    ],
+    "hit_count": 1,
+    "recall": 0.5,
+    "avg_rr": 0.25,
+    "normalized_avg_rr": 0.16666666666666666,
+    "top_k": 5
+  }
+]

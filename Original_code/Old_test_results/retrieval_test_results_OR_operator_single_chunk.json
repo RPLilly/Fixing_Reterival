@@ -1,0 +1,3050 @@
+[
+  {
+    "question": "In SURMOUNT-1, what dosing schedule and duration were used for tirzepatide or placebo, and what were the coprimary endpoints?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      1
+    ],
+    "retrieved_chunk_ids": [
+      6,
+      55,
+      22,
+      36,
+      54
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 2.907391309738159,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-1, what dosing schedule and duration were used for tirzepatide or placebo, and what were the coprimary endpoints?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      1
+    ],
+    "retrieved_chunk_ids": [
+      62,
+      58,
+      61,
+      22,
+      54
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.06184577941894531,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-1, what dosing schedule and duration were used for tirzepatide or placebo, and what were the coprimary endpoints?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      1
+    ],
+    "retrieved_chunk_ids": [
+      22,
+      55,
+      54,
+      36,
+      6
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.743316650390625,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-1, what baseline mean body weight and BMI were reported, and which category of adverse events was most common with tirzepatide?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      2
+    ],
+    "retrieved_chunk_ids": [
+      2,
+      31,
+      23,
+      59,
+      62
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 1.2050888538360596,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-1, what baseline mean body weight and BMI were reported, and which category of adverse events was most common with tirzepatide?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      2
+    ],
+    "retrieved_chunk_ids": [
+      62,
+      55,
+      30,
+      61,
+      19
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.03180050849914551,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-1, what baseline mean body weight and BMI were reported, and which category of adverse events was most common with tirzepatide?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      2
+    ],
+    "retrieved_chunk_ids": [
+      62,
+      55,
+      16,
+      13,
+      26
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.756690502166748,
+    "top_k": 5
+  },
+  {
+    "question": "What rationale is given for combining GIP and GLP-1 receptor agonism as a potential strategy for greater weight reduction?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      3
+    ],
+    "retrieved_chunk_ids": [
+      14,
+      29,
+      3,
+      31,
+      33
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.3333333333333333,
+    "normalized_avg_rr": 0.3333333333333333,
+    "retrieval_time": 0.7660064697265625,
+    "top_k": 5
+  },
+  {
+    "question": "What rationale is given for combining GIP and GLP-1 receptor agonism as a potential strategy for greater weight reduction?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      3
+    ],
+    "retrieved_chunk_ids": [
+      30,
+      3,
+      29,
+      19,
+      33
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.026405811309814453,
+    "top_k": 5
+  },
+  {
+    "question": "What rationale is given for combining GIP and GLP-1 receptor agonism as a potential strategy for greater weight reduction?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      3
+    ],
+    "retrieved_chunk_ids": [
+      29,
+      3,
+      14,
+      30,
+      33
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.8214409351348877,
+    "top_k": 5
+  },
+  {
+    "question": "How many sites and countries were involved in the SURMOUNT-1 phase 3 trial design, and what oversight/ethics framework is described?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      4
+    ],
+    "retrieved_chunk_ids": [
+      34,
+      4,
+      51,
+      20,
+      63
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.8200011253356934,
+    "top_k": 5
+  },
+  {
+    "question": "How many sites and countries were involved in the SURMOUNT-1 phase 3 trial design, and what oversight/ethics framework is described?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      4
+    ],
+    "retrieved_chunk_ids": [
+      4,
+      20,
+      24,
+      29,
+      34
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.03191018104553223,
+    "top_k": 5
+  },
+  {
+    "question": "How many sites and countries were involved in the SURMOUNT-1 phase 3 trial design, and what oversight/ethics framework is described?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      4
+    ],
+    "retrieved_chunk_ids": [
+      4,
+      34,
+      20,
+      63,
+      22
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 1.2566063404083252,
+    "top_k": 5
+  },
+  {
+    "question": "What were the key inclusion criteria for participants in SURMOUNT-1 regarding BMI and weight-related complications, and what were key exclusions?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      5
+    ],
+    "retrieved_chunk_ids": [
+      21,
+      5,
+      35,
+      52,
+      63
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.7964339256286621,
+    "top_k": 5
+  },
+  {
+    "question": "What were the key inclusion criteria for participants in SURMOUNT-1 regarding BMI and weight-related complications, and what were key exclusions?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      5
+    ],
+    "retrieved_chunk_ids": [
+      24,
+      9,
+      25,
+      5,
+      21
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.25,
+    "normalized_avg_rr": 0.25,
+    "retrieval_time": 0.027873992919921875,
+    "top_k": 5
+  },
+  {
+    "question": "What were the key inclusion criteria for participants in SURMOUNT-1 regarding BMI and weight-related complications, and what were key exclusions?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      5
+    ],
+    "retrieved_chunk_ids": [
+      5,
+      21,
+      9,
+      35,
+      52
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.8275868892669678,
+    "top_k": 5
+  },
+  {
+    "question": "Describe the SURMOUNT-1 lifestyle intervention and the tirzepatide dose-escalation approach through week 20.",
+    "method": "vector",
+    "answer_chunk_ids": [
+      6
+    ],
+    "retrieved_chunk_ids": [
+      6,
+      22,
+      54,
+      36,
+      47
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.7447614669799805,
+    "top_k": 5
+  },
+  {
+    "question": "Describe the SURMOUNT-1 lifestyle intervention and the tirzepatide dose-escalation approach through week 20.",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      6
+    ],
+    "retrieved_chunk_ids": [
+      6,
+      61,
+      62,
+      19,
+      54
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.03251957893371582,
+    "top_k": 5
+  },
+  {
+    "question": "Describe the SURMOUNT-1 lifestyle intervention and the tirzepatide dose-escalation approach through week 20.",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      6
+    ],
+    "retrieved_chunk_ids": [
+      6,
+      54,
+      22,
+      36,
+      19
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.7765889167785645,
+    "top_k": 5
+  },
+  {
+    "question": "What were the SURMOUNT-1 key secondary endpoints beyond the two coprimary endpoints, and what subgroup assessment is mentioned?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      7
+    ],
+    "retrieved_chunk_ids": [
+      7,
+      55,
+      37,
+      61,
+      23
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.7746660709381104,
+    "top_k": 5
+  },
+  {
+    "question": "What were the SURMOUNT-1 key secondary endpoints beyond the two coprimary endpoints, and what subgroup assessment is mentioned?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      7
+    ],
+    "retrieved_chunk_ids": [
+      24,
+      58,
+      57,
+      8,
+      37
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.029630184173583984,
+    "top_k": 5
+  },
+  {
+    "question": "What were the SURMOUNT-1 key secondary endpoints beyond the two coprimary endpoints, and what subgroup assessment is mentioned?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      7
+    ],
+    "retrieved_chunk_ids": [
+      7,
+      37,
+      55,
+      57,
+      58
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.8276925086975098,
+    "top_k": 5
+  },
+  {
+    "question": "What sample size and assumptions were used for SURMOUNT-1 power calculations, and what two estimands were analyzed?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      8
+    ],
+    "retrieved_chunk_ids": [
+      8,
+      38,
+      24,
+      58,
+      56
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.7847864627838135,
+    "top_k": 5
+  },
+  {
+    "question": "What sample size and assumptions were used for SURMOUNT-1 power calculations, and what two estimands were analyzed?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      8
+    ],
+    "retrieved_chunk_ids": [
+      24,
+      8,
+      38,
+      58,
+      57
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.02616572380065918,
+    "top_k": 5
+  },
+  {
+    "question": "What sample size and assumptions were used for SURMOUNT-1 power calculations, and what two estimands were analyzed?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      8
+    ],
+    "retrieved_chunk_ids": [
+      8,
+      24,
+      38,
+      58,
+      56
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.859844446182251,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-1, what percentage completed the primary treatment period, and how did discontinuation due to adverse events differ by group?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      9
+    ],
+    "retrieved_chunk_ids": [
+      63,
+      7,
+      59,
+      55,
+      37
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.7054970264434814,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-1, what percentage completed the primary treatment period, and how did discontinuation due to adverse events differ by group?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      9
+    ],
+    "retrieved_chunk_ids": [
+      63,
+      62,
+      13,
+      28,
+      24
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.031374216079711914,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-1, what percentage completed the primary treatment period, and how did discontinuation due to adverse events differ by group?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      9
+    ],
+    "retrieved_chunk_ids": [
+      63,
+      55,
+      25,
+      9,
+      7
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.25,
+    "normalized_avg_rr": 0.25,
+    "retrieval_time": 0.7526414394378662,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-1 (efficacy estimand), what were the mean percent weight changes at week 72 for 5 mg, 10 mg, 15 mg tirzepatide and placebo?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      10
+    ],
+    "retrieved_chunk_ids": [
+      10,
+      60,
+      26,
+      61,
+      2
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.781003475189209,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-1 (efficacy estimand), what were the mean percent weight changes at week 72 for 5 mg, 10 mg, 15 mg tirzepatide and placebo?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      10
+    ],
+    "retrieved_chunk_ids": [
+      55,
+      10,
+      61,
+      62,
+      22
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.03320145606994629,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-1 (efficacy estimand), what were the mean percent weight changes at week 72 for 5 mg, 10 mg, 15 mg tirzepatide and placebo?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      10
+    ],
+    "retrieved_chunk_ids": [
+      10,
+      61,
+      60,
+      55,
+      26
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.8491849899291992,
+    "top_k": 5
+  },
+  {
+    "question": "What cardiometabolic and physical-function benefits with tirzepatide are described, and what happened to participants with prediabetes at baseline by week 72?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      11
+    ],
+    "retrieved_chunk_ids": [
+      11,
+      27,
+      61,
+      59,
+      26
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.80747389793396,
+    "top_k": 5
+  },
+  {
+    "question": "What cardiometabolic and physical-function benefits with tirzepatide are described, and what happened to participants with prediabetes at baseline by week 72?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      11
+    ],
+    "retrieved_chunk_ids": [
+      6,
+      61,
+      11,
+      22,
+      19
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.3333333333333333,
+    "normalized_avg_rr": 0.3333333333333333,
+    "retrieval_time": 0.09111475944519043,
+    "top_k": 5
+  },
+  {
+    "question": "What cardiometabolic and physical-function benefits with tirzepatide are described, and what happened to participants with prediabetes at baseline by week 72?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      11
+    ],
+    "retrieved_chunk_ids": [
+      11,
+      61,
+      6,
+      26,
+      10
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.8585314750671387,
+    "top_k": 5
+  },
+  {
+    "question": "In the body-composition subgroup, what was the estimated treatment difference in total body fat mass reduction for tirzepatide vs placebo, and how did the fat-to-lean ratio change?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      12
+    ],
+    "retrieved_chunk_ids": [
+      12,
+      10,
+      26,
+      60,
+      59
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.7130427360534668,
+    "top_k": 5
+  },
+  {
+    "question": "In the body-composition subgroup, what was the estimated treatment difference in total body fat mass reduction for tirzepatide vs placebo, and how did the fat-to-lean ratio change?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      12
+    ],
+    "retrieved_chunk_ids": [
+      24,
+      62,
+      61,
+      30,
+      38
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.026292800903320312,
+    "top_k": 5
+  },
+  {
+    "question": "In the body-composition subgroup, what was the estimated treatment difference in total body fat mass reduction for tirzepatide vs placebo, and how did the fat-to-lean ratio change?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      12
+    ],
+    "retrieved_chunk_ids": [
+      10,
+      12,
+      61,
+      26,
+      11
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.7375063896179199,
+    "top_k": 5
+  },
+  {
+    "question": "Summarize the overall safety findings in SURMOUNT-1, including serious adverse events, deaths, and pancreatitis distribution.",
+    "method": "vector",
+    "answer_chunk_ids": [
+      13
+    ],
+    "retrieved_chunk_ids": [
+      13,
+      28,
+      44,
+      42,
+      65
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.8146934509277344,
+    "top_k": 5
+  },
+  {
+    "question": "Summarize the overall safety findings in SURMOUNT-1, including serious adverse events, deaths, and pancreatitis distribution.",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      13
+    ],
+    "retrieved_chunk_ids": [
+      62,
+      13,
+      28,
+      63,
+      16
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.025728225708007812,
+    "top_k": 5
+  },
+  {
+    "question": "Summarize the overall safety findings in SURMOUNT-1, including serious adverse events, deaths, and pancreatitis distribution.",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      13
+    ],
+    "retrieved_chunk_ids": [
+      13,
+      28,
+      62,
+      63,
+      44
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 1.1714675426483154,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-1 discussion, what is noted as remarkable about the magnitude of weight loss compared with other phase 3 anti-obesity trials?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      14
+    ],
+    "retrieved_chunk_ids": [
+      14,
+      17,
+      19,
+      7,
+      29
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.7903151512145996,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-1 discussion, what is noted as remarkable about the magnitude of weight loss compared with other phase 3 anti-obesity trials?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      14
+    ],
+    "retrieved_chunk_ids": [
+      30,
+      29,
+      15,
+      10,
+      24
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.0235440731048584,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-1 discussion, what is noted as remarkable about the magnitude of weight loss compared with other phase 3 anti-obesity trials?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      14
+    ],
+    "retrieved_chunk_ids": [
+      14,
+      17,
+      29,
+      15,
+      30
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.7192575931549072,
+    "top_k": 5
+  },
+  {
+    "question": "How does SURMOUNT-1 contextualize tirzepatide\u00e2\u20ac\u2122s placebo-adjusted weight loss versus older anti-obesity medications, semaglutide 2.4 mg, and bariatric surgery?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      15
+    ],
+    "retrieved_chunk_ids": [
+      19,
+      15,
+      2,
+      29,
+      43
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.8865914344787598,
+    "top_k": 5
+  },
+  {
+    "question": "How does SURMOUNT-1 contextualize tirzepatide\u00e2\u20ac\u2122s placebo-adjusted weight loss versus older anti-obesity medications, semaglutide 2.4 mg, and bariatric surgery?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      15
+    ],
+    "retrieved_chunk_ids": [
+      22,
+      15,
+      30,
+      19,
+      41
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.03312373161315918,
+    "top_k": 5
+  },
+  {
+    "question": "How does SURMOUNT-1 contextualize tirzepatide\u00e2\u20ac\u2122s placebo-adjusted weight loss versus older anti-obesity medications, semaglutide 2.4 mg, and bariatric surgery?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      15
+    ],
+    "retrieved_chunk_ids": [
+      15,
+      19,
+      29,
+      43,
+      22
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.7982709407806396,
+    "top_k": 5
+  },
+  {
+    "question": "What improvements in cardiovascular/metabolic risk factors and glycemic status are described alongside weight loss with tirzepatide in SURMOUNT-1?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      16
+    ],
+    "retrieved_chunk_ids": [
+      27,
+      43,
+      16,
+      55,
+      61
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.3333333333333333,
+    "normalized_avg_rr": 0.3333333333333333,
+    "retrieval_time": 0.7221379280090332,
+    "top_k": 5
+  },
+  {
+    "question": "What improvements in cardiovascular/metabolic risk factors and glycemic status are described alongside weight loss with tirzepatide in SURMOUNT-1?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      16
+    ],
+    "retrieved_chunk_ids": [
+      30,
+      64,
+      29,
+      15,
+      26
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.030994176864624023,
+    "top_k": 5
+  },
+  {
+    "question": "What improvements in cardiovascular/metabolic risk factors and glycemic status are described alongside weight loss with tirzepatide in SURMOUNT-1?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      16
+    ],
+    "retrieved_chunk_ids": [
+      30,
+      16,
+      27,
+      43,
+      26
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.7900605201721191,
+    "top_k": 5
+  },
+  {
+    "question": "What strengths and limitations of the SURMOUNT-1 trial are explicitly described (e.g., generalizability, baseline risk factors, BMI distribution)?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      17
+    ],
+    "retrieved_chunk_ids": [
+      17,
+      31,
+      63,
+      9,
+      35
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.6984105110168457,
+    "top_k": 5
+  },
+  {
+    "question": "What strengths and limitations of the SURMOUNT-1 trial are explicitly described (e.g., generalizability, baseline risk factors, BMI distribution)?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      17
+    ],
+    "retrieved_chunk_ids": [
+      24,
+      17,
+      31,
+      30,
+      16
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.03224349021911621,
+    "top_k": 5
+  },
+  {
+    "question": "What strengths and limitations of the SURMOUNT-1 trial are explicitly described (e.g., generalizability, baseline risk factors, BMI distribution)?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      17
+    ],
+    "retrieved_chunk_ids": [
+      17,
+      31,
+      24,
+      4,
+      34
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.7921161651611328,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-5, what treatments were compared, what were the dosing options, and what was the primary endpoint?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      18
+    ],
+    "retrieved_chunk_ids": [
+      55,
+      4,
+      34,
+      20,
+      51
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.7613537311553955,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-5, what treatments were compared, what were the dosing options, and what was the primary endpoint?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      18
+    ],
+    "retrieved_chunk_ids": [
+      58,
+      22,
+      24,
+      57,
+      38
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.0363621711730957,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-5, what treatments were compared, what were the dosing options, and what was the primary endpoint?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      18
+    ],
+    "retrieved_chunk_ids": [
+      55,
+      22,
+      63,
+      57,
+      58
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.795121431350708,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-5, what were the reported least-squares mean percent weight changes at week 72 for tirzepatide vs semaglutide, and what is concluded?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      19
+    ],
+    "retrieved_chunk_ids": [
+      26,
+      10,
+      19,
+      23,
+      43
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.3333333333333333,
+    "normalized_avg_rr": 0.3333333333333333,
+    "retrieval_time": 0.7713160514831543,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-5, what were the reported least-squares mean percent weight changes at week 72 for tirzepatide vs semaglutide, and what is concluded?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      19
+    ],
+    "retrieved_chunk_ids": [
+      19,
+      55,
+      30,
+      26,
+      42
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.03363394737243652,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-5, what were the reported least-squares mean percent weight changes at week 72 for tirzepatide vs semaglutide, and what is concluded?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      19
+    ],
+    "retrieved_chunk_ids": [
+      26,
+      19,
+      10,
+      33,
+      61
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.753119707107544,
+    "top_k": 5
+  },
+  {
+    "question": "Describe the SURMOUNT-5 trial design setting (sites/regions), duration, and ethical/consent approach.",
+    "method": "vector",
+    "answer_chunk_ids": [
+      20
+    ],
+    "retrieved_chunk_ids": [
+      51,
+      4,
+      34,
+      20,
+      63
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.25,
+    "normalized_avg_rr": 0.25,
+    "retrieval_time": 1.144899606704712,
+    "top_k": 5
+  },
+  {
+    "question": "Describe the SURMOUNT-5 trial design setting (sites/regions), duration, and ethical/consent approach.",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      20
+    ],
+    "retrieved_chunk_ids": [
+      29,
+      31,
+      4,
+      24,
+      20
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.2,
+    "normalized_avg_rr": 0.2,
+    "retrieval_time": 0.022552013397216797,
+    "top_k": 5
+  },
+  {
+    "question": "Describe the SURMOUNT-5 trial design setting (sites/regions), duration, and ethical/consent approach.",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      20
+    ],
+    "retrieved_chunk_ids": [
+      4,
+      34,
+      20,
+      22,
+      25
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.3333333333333333,
+    "normalized_avg_rr": 0.3333333333333333,
+    "retrieval_time": 0.8477709293365479,
+    "top_k": 5
+  },
+  {
+    "question": "What were the SURMOUNT-5 inclusion and key exclusion criteria related to BMI, complications, diabetes status, and prior weight-loss treatments?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      21
+    ],
+    "retrieved_chunk_ids": [
+      21,
+      5,
+      35,
+      7,
+      52
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.6966090202331543,
+    "top_k": 5
+  },
+  {
+    "question": "What were the SURMOUNT-5 inclusion and key exclusion criteria related to BMI, complications, diabetes status, and prior weight-loss treatments?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      21
+    ],
+    "retrieved_chunk_ids": [
+      24,
+      58,
+      35,
+      63,
+      8
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.023632526397705078,
+    "top_k": 5
+  },
+  {
+    "question": "What were the SURMOUNT-5 inclusion and key exclusion criteria related to BMI, complications, diabetes status, and prior weight-loss treatments?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      21
+    ],
+    "retrieved_chunk_ids": [
+      35,
+      21,
+      5,
+      63,
+      52
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.8631691932678223,
+    "top_k": 5
+  },
+  {
+    "question": "How were tirzepatide and semaglutide dose escalations handled in SURMOUNT-5, and what was the protocol option if BMI dropped to 22?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      22
+    ],
+    "retrieved_chunk_ids": [
+      22,
+      36,
+      31,
+      2,
+      43
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.775728702545166,
+    "top_k": 5
+  },
+  {
+    "question": "How were tirzepatide and semaglutide dose escalations handled in SURMOUNT-5, and what was the protocol option if BMI dropped to 22?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      22
+    ],
+    "retrieved_chunk_ids": [
+      22,
+      42,
+      19,
+      41,
+      44
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.04446911811828613,
+    "top_k": 5
+  },
+  {
+    "question": "How were tirzepatide and semaglutide dose escalations handled in SURMOUNT-5, and what was the protocol option if BMI dropped to 22?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      22
+    ],
+    "retrieved_chunk_ids": [
+      22,
+      36,
+      19,
+      43,
+      54
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.7202086448669434,
+    "top_k": 5
+  },
+  {
+    "question": "What were the key secondary endpoints in SURMOUNT-5, and what safety events were adjudicated by an external committee?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      23
+    ],
+    "retrieved_chunk_ids": [
+      55,
+      37,
+      23,
+      7,
+      63
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.3333333333333333,
+    "normalized_avg_rr": 0.3333333333333333,
+    "retrieval_time": 0.9659900665283203,
+    "top_k": 5
+  },
+  {
+    "question": "What were the key secondary endpoints in SURMOUNT-5, and what safety events were adjudicated by an external committee?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      23
+    ],
+    "retrieved_chunk_ids": [
+      62,
+      37,
+      57,
+      28,
+      55
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.02331376075744629,
+    "top_k": 5
+  },
+  {
+    "question": "What were the key secondary endpoints in SURMOUNT-5, and what safety events were adjudicated by an external committee?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      23
+    ],
+    "retrieved_chunk_ids": [
+      37,
+      55,
+      23,
+      57,
+      63
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.3333333333333333,
+    "normalized_avg_rr": 0.3333333333333333,
+    "retrieval_time": 1.0148329734802246,
+    "top_k": 5
+  },
+  {
+    "question": "What was the SURMOUNT-5 sample size rationale and what distinguishes the modified treatment-regimen estimand from the efficacy estimand?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      24
+    ],
+    "retrieved_chunk_ids": [
+      58,
+      8,
+      38,
+      24,
+      57
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.25,
+    "normalized_avg_rr": 0.25,
+    "retrieval_time": 1.0033619403839111,
+    "top_k": 5
+  },
+  {
+    "question": "What was the SURMOUNT-5 sample size rationale and what distinguishes the modified treatment-regimen estimand from the efficacy estimand?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      24
+    ],
+    "retrieved_chunk_ids": [
+      24,
+      8,
+      38,
+      57,
+      58
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.019072294235229492,
+    "top_k": 5
+  },
+  {
+    "question": "What was the SURMOUNT-5 sample size rationale and what distinguishes the modified treatment-regimen estimand from the efficacy estimand?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      24
+    ],
+    "retrieved_chunk_ids": [
+      8,
+      58,
+      24,
+      38,
+      57
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.3333333333333333,
+    "normalized_avg_rr": 0.3333333333333333,
+    "retrieval_time": 0.8110451698303223,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-5, how many participants were randomized, what completion rates were reported, and what proportion received at least one top dose (15 mg or 2.4 mg)?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      25
+    ],
+    "retrieved_chunk_ids": [
+      63,
+      51,
+      4,
+      34,
+      20
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.8001971244812012,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-5, how many participants were randomized, what completion rates were reported, and what proportion received at least one top dose (15 mg or 2.4 mg)?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      25
+    ],
+    "retrieved_chunk_ids": [
+      22,
+      41,
+      42,
+      10,
+      6
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.03076958656311035,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-5, how many participants were randomized, what completion rates were reported, and what proportion received at least one top dose (15 mg or 2.4 mg)?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      25
+    ],
+    "retrieved_chunk_ids": [
+      63,
+      22,
+      25,
+      55,
+      51
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.3333333333333333,
+    "normalized_avg_rr": 0.3333333333333333,
+    "retrieval_time": 0.7479231357574463,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-5, what was the estimated treatment difference in percent weight change, and how did likelihood of achieving \u00e2\u2030\u00a510%, \u00e2\u2030\u00a515%, \u00e2\u2030\u00a520%, and \u00e2\u2030\u00a525% reductions compare?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      26
+    ],
+    "retrieved_chunk_ids": [
+      7,
+      10,
+      15,
+      26,
+      19
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.25,
+    "normalized_avg_rr": 0.25,
+    "retrieval_time": 0.7773270606994629,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-5, what was the estimated treatment difference in percent weight change, and how did likelihood of achieving \u00e2\u2030\u00a510%, \u00e2\u2030\u00a515%, \u00e2\u2030\u00a520%, and \u00e2\u2030\u00a525% reductions compare?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      26
+    ],
+    "retrieved_chunk_ids": [
+      30,
+      24,
+      29,
+      10,
+      26
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.2,
+    "normalized_avg_rr": 0.2,
+    "retrieval_time": 0.05425310134887695,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-5, what was the estimated treatment difference in percent weight change, and how did likelihood of achieving \u00e2\u2030\u00a510%, \u00e2\u2030\u00a515%, \u00e2\u2030\u00a520%, and \u00e2\u2030\u00a525% reductions compare?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      26
+    ],
+    "retrieved_chunk_ids": [
+      10,
+      26,
+      30,
+      15,
+      19
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.7953445911407471,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-5, what was the estimated treatment difference in waist circumference change, and which cardiometabolic risk factors improved with both treatments?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      27
+    ],
+    "retrieved_chunk_ids": [
+      27,
+      7,
+      30,
+      11,
+      19
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.7322473526000977,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-5, what was the estimated treatment difference in waist circumference change, and which cardiometabolic risk factors improved with both treatments?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      27
+    ],
+    "retrieved_chunk_ids": [
+      24,
+      30,
+      27,
+      38,
+      8
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.3333333333333333,
+    "normalized_avg_rr": 0.3333333333333333,
+    "retrieval_time": 0.03757762908935547,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-5, what was the estimated treatment difference in waist circumference change, and which cardiometabolic risk factors improved with both treatments?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      27
+    ],
+    "retrieved_chunk_ids": [
+      27,
+      30,
+      11,
+      61,
+      19
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.8025078773498535,
+    "top_k": 5
+  },
+  {
+    "question": "Summarize SURMOUNT-5 safety outcomes, including GI events, discontinuations due to GI events, injection-site reactions, and serious adverse events.",
+    "method": "vector",
+    "answer_chunk_ids": [
+      28
+    ],
+    "retrieved_chunk_ids": [
+      28,
+      65,
+      62,
+      44,
+      13
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.7114014625549316,
+    "top_k": 5
+  },
+  {
+    "question": "Summarize SURMOUNT-5 safety outcomes, including GI events, discontinuations due to GI events, injection-site reactions, and serious adverse events.",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      28
+    ],
+    "retrieved_chunk_ids": [
+      63,
+      62,
+      28,
+      55,
+      13
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.3333333333333333,
+    "normalized_avg_rr": 0.3333333333333333,
+    "retrieval_time": 0.03154587745666504,
+    "top_k": 5
+  },
+  {
+    "question": "Summarize SURMOUNT-5 safety outcomes, including GI events, discontinuations due to GI events, injection-site reactions, and serious adverse events.",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      28
+    ],
+    "retrieved_chunk_ids": [
+      28,
+      62,
+      13,
+      63,
+      55
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.7593808174133301,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-5 discussion, what explanation is offered for slightly lower weight reduction compared with some earlier trials?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      29
+    ],
+    "retrieved_chunk_ids": [
+      17,
+      29,
+      30,
+      14,
+      19
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.7698712348937988,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-5 discussion, what explanation is offered for slightly lower weight reduction compared with some earlier trials?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      29
+    ],
+    "retrieved_chunk_ids": [
+      30,
+      29,
+      15,
+      26,
+      17
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.025951147079467773,
+    "top_k": 5
+  },
+  {
+    "question": "In SURMOUNT-5 discussion, what explanation is offered for slightly lower weight reduction compared with some earlier trials?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      29
+    ],
+    "retrieved_chunk_ids": [
+      29,
+      17,
+      30,
+      19,
+      15
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.733778715133667,
+    "top_k": 5
+  },
+  {
+    "question": "What relationship between weight-loss categories and cardiometabolic improvements is described in SURMOUNT-5, and why might the blood pressure differences matter clinically?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      30
+    ],
+    "retrieved_chunk_ids": [
+      30,
+      27,
+      7,
+      14,
+      19
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 1.1937096118927002,
+    "top_k": 5
+  },
+  {
+    "question": "What relationship between weight-loss categories and cardiometabolic improvements is described in SURMOUNT-5, and why might the blood pressure differences matter clinically?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      30
+    ],
+    "retrieved_chunk_ids": [
+      30,
+      27,
+      61,
+      64,
+      16
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.05251288414001465,
+    "top_k": 5
+  },
+  {
+    "question": "What relationship between weight-loss categories and cardiometabolic improvements is described in SURMOUNT-5, and why might the blood pressure differences matter clinically?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      30
+    ],
+    "retrieved_chunk_ids": [
+      30,
+      27,
+      14,
+      16,
+      61
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.8595211505889893,
+    "top_k": 5
+  },
+  {
+    "question": "What strengths and limitations of SURMOUNT-5 are stated (e.g., participant diversity, maximum tolerated dosing, lack of blinding)?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      31
+    ],
+    "retrieved_chunk_ids": [
+      17,
+      4,
+      34,
+      51,
+      63
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.7103283405303955,
+    "top_k": 5
+  },
+  {
+    "question": "What strengths and limitations of SURMOUNT-5 are stated (e.g., participant diversity, maximum tolerated dosing, lack of blinding)?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      31
+    ],
+    "retrieved_chunk_ids": [
+      22,
+      31,
+      19,
+      6,
+      25
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.05315732955932617,
+    "top_k": 5
+  },
+  {
+    "question": "What strengths and limitations of SURMOUNT-5 are stated (e.g., participant diversity, maximum tolerated dosing, lack of blinding)?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      31
+    ],
+    "retrieved_chunk_ids": [
+      17,
+      31,
+      22,
+      66,
+      4
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.7541813850402832,
+    "top_k": 5
+  },
+  {
+    "question": "In SURPASS-2 (abstract), what was the trial duration, participant count, and primary endpoint used to compare tirzepatide vs semaglutide?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      32
+    ],
+    "retrieved_chunk_ids": [
+      39,
+      55,
+      25,
+      43,
+      32
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.2,
+    "normalized_avg_rr": 0.2,
+    "retrieval_time": 0.7724692821502686,
+    "top_k": 5
+  },
+  {
+    "question": "In SURPASS-2 (abstract), what was the trial duration, participant count, and primary endpoint used to compare tirzepatide vs semaglutide?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      32
+    ],
+    "retrieved_chunk_ids": [
+      24,
+      19,
+      62,
+      29,
+      25
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.05890464782714844,
+    "top_k": 5
+  },
+  {
+    "question": "In SURPASS-2 (abstract), what was the trial duration, participant count, and primary endpoint used to compare tirzepatide vs semaglutide?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      32
+    ],
+    "retrieved_chunk_ids": [
+      25,
+      55,
+      22,
+      38,
+      39
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.783858060836792,
+    "top_k": 5
+  },
+  {
+    "question": "What is stated about tirzepatide\u00e2\u20ac\u2122s noninferiority/superiority vs semaglutide for HbA1c change, and what mechanistic background on GLP-1 and GIP is provided?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      33
+    ],
+    "retrieved_chunk_ids": [
+      43,
+      33,
+      32,
+      31,
+      64
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.7813713550567627,
+    "top_k": 5
+  },
+  {
+    "question": "What is stated about tirzepatide\u00e2\u20ac\u2122s noninferiority/superiority vs semaglutide for HbA1c change, and what mechanistic background on GLP-1 and GIP is provided?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      33
+    ],
+    "retrieved_chunk_ids": [
+      55,
+      19,
+      61,
+      42,
+      26
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.053209781646728516,
+    "top_k": 5
+  },
+  {
+    "question": "What is stated about tirzepatide\u00e2\u20ac\u2122s noninferiority/superiority vs semaglutide for HbA1c change, and what mechanistic background on GLP-1 and GIP is provided?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      33
+    ],
+    "retrieved_chunk_ids": [
+      33,
+      26,
+      61,
+      19,
+      43
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.8335793018341064,
+    "top_k": 5
+  },
+  {
+    "question": "Describe the SURPASS-2 trial oversight and the geographic scope (countries/sites) mentioned.",
+    "method": "vector",
+    "answer_chunk_ids": [
+      34
+    ],
+    "retrieved_chunk_ids": [
+      34,
+      51,
+      4,
+      63,
+      20
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.8295161724090576,
+    "top_k": 5
+  },
+  {
+    "question": "Describe the SURPASS-2 trial oversight and the geographic scope (countries/sites) mentioned.",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      34
+    ],
+    "retrieved_chunk_ids": [
+      24,
+      34,
+      29,
+      31,
+      17
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.05217719078063965,
+    "top_k": 5
+  },
+  {
+    "question": "Describe the SURPASS-2 trial oversight and the geographic scope (countries/sites) mentioned.",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      34
+    ],
+    "retrieved_chunk_ids": [
+      34,
+      4,
+      20,
+      17,
+      25
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 1.2906882762908936,
+    "top_k": 5
+  },
+  {
+    "question": "What were key SURPASS-2 inclusion criteria (HbA1c range, BMI threshold, metformin dose) and major exclusions (e.g., eGFR, pancreatitis, retinopathy)?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      35
+    ],
+    "retrieved_chunk_ids": [
+      35,
+      52,
+      63,
+      21,
+      5
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.8198606967926025,
+    "top_k": 5
+  },
+  {
+    "question": "What were key SURPASS-2 inclusion criteria (HbA1c range, BMI threshold, metformin dose) and major exclusions (e.g., eGFR, pancreatitis, retinopathy)?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      35
+    ],
+    "retrieved_chunk_ids": [
+      22,
+      52,
+      54,
+      35,
+      55
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.25,
+    "normalized_avg_rr": 0.25,
+    "retrieval_time": 0.07007050514221191,
+    "top_k": 5
+  },
+  {
+    "question": "What were key SURPASS-2 inclusion criteria (HbA1c range, BMI threshold, metformin dose) and major exclusions (e.g., eGFR, pancreatitis, retinopathy)?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      35
+    ],
+    "retrieved_chunk_ids": [
+      52,
+      35,
+      63,
+      55,
+      22
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 1.253420352935791,
+    "top_k": 5
+  },
+  {
+    "question": "How did dosing escalation differ between tirzepatide and semaglutide in SURPASS-2, and was dose de-escalation allowed?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      36
+    ],
+    "retrieved_chunk_ids": [
+      36,
+      22,
+      43,
+      33,
+      54
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.8278100490570068,
+    "top_k": 5
+  },
+  {
+    "question": "How did dosing escalation differ between tirzepatide and semaglutide in SURPASS-2, and was dose de-escalation allowed?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      36
+    ],
+    "retrieved_chunk_ids": [
+      22,
+      42,
+      44,
+      41,
+      19
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.055689096450805664,
+    "top_k": 5
+  },
+  {
+    "question": "How did dosing escalation differ between tirzepatide and semaglutide in SURPASS-2, and was dose de-escalation allowed?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      36
+    ],
+    "retrieved_chunk_ids": [
+      22,
+      36,
+      43,
+      33,
+      44
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.8501026630401611,
+    "top_k": 5
+  },
+  {
+    "question": "List the SURPASS-2 primary endpoint and key secondary endpoints, including glycemic targets and weight-loss thresholds.",
+    "method": "vector",
+    "answer_chunk_ids": [
+      37
+    ],
+    "retrieved_chunk_ids": [
+      37,
+      55,
+      7,
+      23,
+      61
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.7332565784454346,
+    "top_k": 5
+  },
+  {
+    "question": "List the SURPASS-2 primary endpoint and key secondary endpoints, including glycemic targets and weight-loss thresholds.",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      37
+    ],
+    "retrieved_chunk_ids": [
+      24,
+      57,
+      63,
+      58,
+      37
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.2,
+    "normalized_avg_rr": 0.2,
+    "retrieval_time": 0.053948402404785156,
+    "top_k": 5
+  },
+  {
+    "question": "List the SURPASS-2 primary endpoint and key secondary endpoints, including glycemic targets and weight-loss thresholds.",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      37
+    ],
+    "retrieved_chunk_ids": [
+      37,
+      55,
+      7,
+      23,
+      48
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.794468879699707,
+    "top_k": 5
+  },
+  {
+    "question": "What two estimands were used in SURPASS-2, what analysis population is named, and how was type I error controlled?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      38
+    ],
+    "retrieved_chunk_ids": [
+      57,
+      58,
+      8,
+      38,
+      24
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.25,
+    "normalized_avg_rr": 0.25,
+    "retrieval_time": 0.7323381900787354,
+    "top_k": 5
+  },
+  {
+    "question": "What two estimands were used in SURPASS-2, what analysis population is named, and how was type I error controlled?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      38
+    ],
+    "retrieved_chunk_ids": [
+      24,
+      58,
+      57,
+      8,
+      38
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.2,
+    "normalized_avg_rr": 0.2,
+    "retrieval_time": 0.05610942840576172,
+    "top_k": 5
+  },
+  {
+    "question": "What two estimands were used in SURPASS-2, what analysis population is named, and how was type I error controlled?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      38
+    ],
+    "retrieved_chunk_ids": [
+      57,
+      58,
+      24,
+      8,
+      38
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.2,
+    "normalized_avg_rr": 0.2,
+    "retrieval_time": 0.8065543174743652,
+    "top_k": 5
+  },
+  {
+    "question": "In SURPASS-2, when and where was the trial conducted, and what is said about baseline comparability across groups?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      39
+    ],
+    "retrieved_chunk_ids": [
+      63,
+      4,
+      51,
+      34,
+      20
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 1.2098517417907715,
+    "top_k": 5
+  },
+  {
+    "question": "In SURPASS-2, when and where was the trial conducted, and what is said about baseline comparability across groups?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      39
+    ],
+    "retrieved_chunk_ids": [
+      62,
+      13,
+      24,
+      61,
+      25
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.05677390098571777,
+    "top_k": 5
+  },
+  {
+    "question": "In SURPASS-2, when and where was the trial conducted, and what is said about baseline comparability across groups?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      39
+    ],
+    "retrieved_chunk_ids": [
+      4,
+      25,
+      55,
+      34,
+      9
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.8558928966522217,
+    "top_k": 5
+  },
+  {
+    "question": "What lipid changes and adverse-event patterns (notably GI events and serious AEs) are described in SURPASS-2 other endpoints and safety?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      40
+    ],
+    "retrieved_chunk_ids": [
+      40,
+      55,
+      7,
+      28,
+      13
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.7667691707611084,
+    "top_k": 5
+  },
+  {
+    "question": "What lipid changes and adverse-event patterns (notably GI events and serious AEs) are described in SURPASS-2 other endpoints and safety?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      40
+    ],
+    "retrieved_chunk_ids": [
+      37,
+      55,
+      62,
+      13,
+      28
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.05115032196044922,
+    "top_k": 5
+  },
+  {
+    "question": "What lipid changes and adverse-event patterns (notably GI events and serious AEs) are described in SURPASS-2 other endpoints and safety?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      40
+    ],
+    "retrieved_chunk_ids": [
+      55,
+      28,
+      7,
+      13,
+      40
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.2,
+    "normalized_avg_rr": 0.2,
+    "retrieval_time": 0.7591378688812256,
+    "top_k": 5
+  },
+  {
+    "question": "In SURPASS-2, how many deaths occurred, what role did Covid-19 play, and how did clinically significant hypoglycemia vary by dose group?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      41
+    ],
+    "retrieved_chunk_ids": [
+      41,
+      63,
+      55,
+      37,
+      59
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.7335953712463379,
+    "top_k": 5
+  },
+  {
+    "question": "In SURPASS-2, how many deaths occurred, what role did Covid-19 play, and how did clinically significant hypoglycemia vary by dose group?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      41
+    ],
+    "retrieved_chunk_ids": [
+      41,
+      62,
+      61,
+      13,
+      22
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.052849531173706055,
+    "top_k": 5
+  },
+  {
+    "question": "In SURPASS-2, how many deaths occurred, what role did Covid-19 play, and how did clinically significant hypoglycemia vary by dose group?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      41
+    ],
+    "retrieved_chunk_ids": [
+      41,
+      44,
+      61,
+      13,
+      43
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.7750396728515625,
+    "top_k": 5
+  },
+  {
+    "question": "What adjudicated pancreatitis findings, gallbladder findings, calcitonin/thyroid cancer observations, and pulse/blood pressure changes are described in SURPASS-2?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      42
+    ],
+    "retrieved_chunk_ids": [
+      42,
+      63,
+      55,
+      37,
+      7
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.7138359546661377,
+    "top_k": 5
+  },
+  {
+    "question": "What adjudicated pancreatitis findings, gallbladder findings, calcitonin/thyroid cancer observations, and pulse/blood pressure changes are described in SURPASS-2?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      42
+    ],
+    "retrieved_chunk_ids": [
+      55,
+      42,
+      28,
+      16,
+      37
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.5,
+    "normalized_avg_rr": 0.5,
+    "retrieval_time": 0.050772666931152344,
+    "top_k": 5
+  },
+  {
+    "question": "What adjudicated pancreatitis findings, gallbladder findings, calcitonin/thyroid cancer observations, and pulse/blood pressure changes are described in SURPASS-2?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      42
+    ],
+    "retrieved_chunk_ids": [
+      42,
+      55,
+      37,
+      16,
+      61
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 1.241663932800293,
+    "top_k": 5
+  },
+  {
+    "question": "In SURPASS-2 discussion, what is concluded about weight-loss magnitude at 15 mg tirzepatide versus semaglutide 1 mg, and did weight loss plateau by 40 weeks?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      43
+    ],
+    "retrieved_chunk_ids": [
+      26,
+      10,
+      43,
+      2,
+      19
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.3333333333333333,
+    "normalized_avg_rr": 0.3333333333333333,
+    "retrieval_time": 0.7184798717498779,
+    "top_k": 5
+  },
+  {
+    "question": "In SURPASS-2 discussion, what is concluded about weight-loss magnitude at 15 mg tirzepatide versus semaglutide 1 mg, and did weight loss plateau by 40 weeks?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      43
+    ],
+    "retrieved_chunk_ids": [
+      22,
+      10,
+      41,
+      63,
+      42
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.0596776008605957,
+    "top_k": 5
+  },
+  {
+    "question": "In SURPASS-2 discussion, what is concluded about weight-loss magnitude at 15 mg tirzepatide versus semaglutide 1 mg, and did weight loss plateau by 40 weeks?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      43
+    ],
+    "retrieved_chunk_ids": [
+      10,
+      26,
+      15,
+      19,
+      22
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.8759040832519531,
+    "top_k": 5
+  },
+  {
+    "question": "What trial limitations are noted in SURPASS-2 regarding blinding, duration, and participant demographics, and what comparator limitation is mentioned?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      44
+    ],
+    "retrieved_chunk_ids": [
+      4,
+      17,
+      34,
+      63,
+      20
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.7451145648956299,
+    "top_k": 5
+  },
+  {
+    "question": "What trial limitations are noted in SURPASS-2 regarding blinding, duration, and participant demographics, and what comparator limitation is mentioned?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      44
+    ],
+    "retrieved_chunk_ids": [
+      24,
+      17,
+      25,
+      31,
+      16
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.05234932899475098,
+    "top_k": 5
+  },
+  {
+    "question": "What trial limitations are noted in SURPASS-2 regarding blinding, duration, and participant demographics, and what comparator limitation is mentioned?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      44
+    ],
+    "retrieved_chunk_ids": [
+      17,
+      4,
+      25,
+      20,
+      31
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.8574447631835938,
+    "top_k": 5
+  },
+  {
+    "question": "What strengths are highlighted in SURPASS-2, including comparator choice and sample size/completion?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      45
+    ],
+    "retrieved_chunk_ids": [
+      8,
+      55,
+      38,
+      17,
+      45
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.2,
+    "normalized_avg_rr": 0.2,
+    "retrieval_time": 0.7156205177307129,
+    "top_k": 5
+  },
+  {
+    "question": "What strengths are highlighted in SURPASS-2, including comparator choice and sample size/completion?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      45
+    ],
+    "retrieved_chunk_ids": [
+      55,
+      63,
+      62,
+      45,
+      30
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.25,
+    "normalized_avg_rr": 0.25,
+    "retrieval_time": 0.062225341796875,
+    "top_k": 5
+  },
+  {
+    "question": "What strengths are highlighted in SURPASS-2, including comparator choice and sample size/completion?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      45
+    ],
+    "retrieved_chunk_ids": [
+      55,
+      8,
+      45,
+      63,
+      38
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.3333333333333333,
+    "normalized_avg_rr": 0.3333333333333333,
+    "retrieval_time": 0.7853415012359619,
+    "top_k": 5
+  },
+  {
+    "question": "In SURPASS-5, what clinical question is the study addressing regarding tirzepatide added to insulin glargine?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      50
+    ],
+    "retrieved_chunk_ids": [
+      49,
+      33,
+      43,
+      46,
+      55
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.7336781024932861,
+    "top_k": 5
+  },
+  {
+    "question": "In SURPASS-5, what clinical question is the study addressing regarding tirzepatide added to insulin glargine?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      50
+    ],
+    "retrieved_chunk_ids": [
+      62,
+      64,
+      33,
+      63,
+      49
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.053731679916381836,
+    "top_k": 5
+  },
+  {
+    "question": "In SURPASS-5, what clinical question is the study addressing regarding tirzepatide added to insulin glargine?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      50
+    ],
+    "retrieved_chunk_ids": [
+      33,
+      49,
+      64,
+      55,
+      66
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.8038063049316406,
+    "top_k": 5
+  },
+  {
+    "question": "In SURPASS-5, what were the intervention arms, randomization ratio, duration, and titration approach for tirzepatide dosing?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      47
+    ],
+    "retrieved_chunk_ids": [
+      6,
+      36,
+      54,
+      22,
+      53
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.7298305034637451,
+    "top_k": 5
+  },
+  {
+    "question": "In SURPASS-5, what were the intervention arms, randomization ratio, duration, and titration approach for tirzepatide dosing?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      47
+    ],
+    "retrieved_chunk_ids": [
+      22,
+      54,
+      36,
+      6,
+      41
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.06904196739196777,
+    "top_k": 5
+  },
+  {
+    "question": "In SURPASS-5, what were the intervention arms, randomization ratio, duration, and titration approach for tirzepatide dosing?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      47
+    ],
+    "retrieved_chunk_ids": [
+      6,
+      36,
+      54,
+      22,
+      55
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.8157470226287842,
+    "top_k": 5
+  },
+  {
+    "question": "What is described about why adding GLP-1\u00e2\u20ac\u201cbased therapies to basal insulin can be beneficial, and how is tirzepatide positioned vs other comparators?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      49
+    ],
+    "retrieved_chunk_ids": [
+      49,
+      64,
+      33,
+      46,
+      43
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.7732610702514648,
+    "top_k": 5
+  },
+  {
+    "question": "What is described about why adding GLP-1\u00e2\u20ac\u201cbased therapies to basal insulin can be beneficial, and how is tirzepatide positioned vs other comparators?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      49
+    ],
+    "retrieved_chunk_ids": [
+      62,
+      64,
+      55,
+      49,
+      33
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.25,
+    "normalized_avg_rr": 0.25,
+    "retrieval_time": 0.06962823867797852,
+    "top_k": 5
+  },
+  {
+    "question": "What is described about why adding GLP-1\u00e2\u20ac\u201cbased therapies to basal insulin can be beneficial, and how is tirzepatide positioned vs other comparators?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      49
+    ],
+    "retrieved_chunk_ids": [
+      49,
+      64,
+      33,
+      54,
+      46
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.8434774875640869,
+    "top_k": 5
+  },
+  {
+    "question": "What are the SURPASS-5 eligibility criteria related to baseline HbA1c, BMI, insulin glargine dose, metformin use, and key exclusions like eGFR or gastroparesis?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      52
+    ],
+    "retrieved_chunk_ids": [],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.329845666885376,
+    "top_k": 5
+  },
+  {
+    "question": "What are the SURPASS-5 eligibility criteria related to baseline HbA1c, BMI, insulin glargine dose, metformin use, and key exclusions like eGFR or gastroparesis?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      52
+    ],
+    "retrieved_chunk_ids": [
+      58,
+      54,
+      61,
+      33,
+      22
+    ],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.05964159965515137,
+    "top_k": 5
+  },
+  {
+    "question": "What are the SURPASS-5 eligibility criteria related to baseline HbA1c, BMI, insulin glargine dose, metformin use, and key exclusions like eGFR or gastroparesis?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      52
+    ],
+    "retrieved_chunk_ids": [],
+    "hit_count": 0,
+    "recall": 0.0,
+    "avg_rr": 0.0,
+    "normalized_avg_rr": 0.0,
+    "retrieval_time": 0.5865719318389893,
+    "top_k": 5
+  },
+  {
+    "question": "How did SURPASS-5 manage insulin glargine dosing early in the trial, including the week-4 stabilization and the 20% reduction rule?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      54
+    ],
+    "retrieved_chunk_ids": [
+      63,
+      49,
+      54,
+      52,
+      22
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.3333333333333333,
+    "normalized_avg_rr": 0.3333333333333333,
+    "retrieval_time": 0.8149380683898926,
+    "top_k": 5
+  },
+  {
+    "question": "How did SURPASS-5 manage insulin glargine dosing early in the trial, including the week-4 stabilization and the 20% reduction rule?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      54
+    ],
+    "retrieved_chunk_ids": [
+      29,
+      30,
+      33,
+      22,
+      54
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 0.2,
+    "normalized_avg_rr": 0.2,
+    "retrieval_time": 0.058969736099243164,
+    "top_k": 5
+  },
+  {
+    "question": "How did SURPASS-5 manage insulin glargine dosing early in the trial, including the week-4 stabilization and the 20% reduction rule?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      54
+    ],
+    "retrieved_chunk_ids": [
+      54,
+      22,
+      49,
+      63,
+      33
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.7962775230407715,
+    "top_k": 5
+  },
+  {
+    "question": "What primary and key secondary objectives were controlled for multiplicity in SURPASS-5, and which HbA1c targets were explicitly compared vs placebo?",
+    "method": "vector",
+    "answer_chunk_ids": [
+      55
+    ],
+    "retrieved_chunk_ids": [
+      55,
+      37,
+      63,
+      48,
+      57
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 1.1828086376190186,
+    "top_k": 5
+  },
+  {
+    "question": "What primary and key secondary objectives were controlled for multiplicity in SURPASS-5, and which HbA1c targets were explicitly compared vs placebo?",
+    "method": "lexical",
+    "answer_chunk_ids": [
+      55
+    ],
+    "retrieved_chunk_ids": [
+      55,
+      62,
+      57,
+      24,
+      61
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.06028556823730469,
+    "top_k": 5
+  },
+  {
+    "question": "What primary and key secondary objectives were controlled for multiplicity in SURPASS-5, and which HbA1c targets were explicitly compared vs placebo?",
+    "method": "rrf",
+    "answer_chunk_ids": [
+      55
+    ],
+    "retrieved_chunk_ids": [
+      55,
+      57,
+      61,
+      48,
+      60
+    ],
+    "hit_count": 1,
+    "recall": 1.0,
+    "avg_rr": 1.0,
+    "normalized_avg_rr": 1.0,
+    "retrieval_time": 0.8254525661468506,
+    "top_k": 5
+  }
+]

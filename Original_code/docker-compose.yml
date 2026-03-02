@@ -1,0 +1,65 @@
+services:
+  app:
+    build: .
+    container_name: llm-gateway-app-exp
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env  # Place a .env file in this directory with CLIENT_ID, CLIENT_SECRET, TENANT_ID, LLM_GATEWAY_KEY, POSTGRES_USER, POSTGRES_PASSWORD, POSTGRES_DB
+    environment:
+      # Ensure the app always points at the compose service name
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: 5432
+      # Make chunk loading explicit
+      CHUNKS_JSON_PATH: /app/chunks.json
+      POSTGRES_MINCONN: ${POSTGRES_MINCONN:-5}
+      POSTGRES_MAXCONN: ${POSTGRES_MAXCONN:-50}
+    volumes:
+      # Mount chunks.json from your host into the container
+      - ./chunks.json:/app/chunks.json:ro
+      # Mount alembic directory to persist migration files
+      - ./alembic:/app/alembic
+    depends_on:
+      postgres:
+        condition: service_healthy
+    # Wait for DB, then init schema/extension, then start API
+    command: ["sh", "-lc", "python db_init.py && uvicorn app.main:app --host 0.0.0.0 --port 8000 --workers ${UVICORN_WORKERS:-1}"]
+
+  postgres:
+    image: ankane/pgvector:latest
+    container_name: llm-gateway-postgres-exp
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-llmuser}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-llm_password}
+      POSTGRES_DB: ${POSTGRES_DB:-llmuser}
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  loadtest:
+    profiles: ["loadtest"]
+    build: .
+    container_name: llm-gateway-loadtest
+    depends_on:
+      app:
+        condition: service_started
+      postgres:
+        condition: service_healthy
+    environment:
+      # Point the load test at the FastAPI service inside the compose network
+      LOADTEST_BASE_URL: http://app:8000
+      LOADTEST_ENDPOINT: /retrieve-chunks-hybrid
+      LOADTEST_METHOD: GET
+      # Optional if your endpoint is protected; forwarded from .env if present
+      LLM_GATEWAY_KEY: ${LLM_GATEWAY_KEY:-}
+    # Runs once and exits. Override args for different runs.
+    command: ["python", "scripts/load_test_db_chunks_async.py", "--users", "100", "--requests-per-user", "5", "--concurrency", "100", "--top-k", "5"]
+
+volumes:
+  pg_data:
